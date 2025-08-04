@@ -41,21 +41,21 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 While working on this project, I improved my understanding of:
 
-Structuring semantic HTML
+- Structuring semantic HTML
 
-Styling responsive card layouts with Flexbox and Grid
+- Styling responsive card layouts with Flexbox and Grid
 
-Using CSS variables for maintainable themes
+- Using CSS variables for maintainable themes
 
 ### Continued development
 
 I want to focus more on:
 
-Advanced responsive techniques
+- Advanced responsive techniques
 
-Accessibility best practices
+- Accessibility best practices
 
-Making pixel-perfect layouts
+- Making pixel-perfect layouts
 
 
 ### Useful resources
